@@ -38,6 +38,6 @@ This repository is provided under the MIT License. See [`LICENSE`](./LICENSE) fo
 
 ## Support
 
-If something here saves you time or you find it useful, optional support is available at:
+If you find anything here useful, please consider donating:
 
 https://paypal.me/plutoniumshore
